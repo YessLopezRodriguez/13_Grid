@@ -1,0 +1,33 @@
+h1 {
+	text-align: center;
+}
+
+.imgradius {
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+
+}
+
+.color {
+	background-color: aqua;
+}
+
+.col-12, .col-3, .col-6, .col-7, .col-5 {
+	height: 30px;
+}
+.margin {
+	margin: 2px;
+}
+
+.size {
+	width: 200px;
+}
+
+.size1 {
+	width: 400px;
+}
+
+.size2 {
+	width: 300px;
+}
